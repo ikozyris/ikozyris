@@ -7,7 +7,9 @@
 
 <img src="C-logo.png" alt="c-logo" width="100"/>
 Bash shell
+
 Python
+
 HTML
 <!--
 **ikozyris/ikozyris** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
