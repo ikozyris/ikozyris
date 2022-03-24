@@ -5,12 +5,9 @@
 
 
 
-<img src="C-logo.png" alt="c-logo" width="100"/>
-Bash shell
+<img src="C-logo.png" alt="c-logo" width="100"/><img src="https://user-images.githubusercontent.com/80053394/159924995-ae240b6b-6ae2-45fe-87d5-ac0c7dac2073.png" alt="c-logo" width="80"/>
+Bash Script
 
-Python
-
-HTML
 <!--
 **ikozyris/ikozyris** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
