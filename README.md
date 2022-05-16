@@ -1,6 +1,11 @@
 ### Hi there 👋
 - ⚡ Fun fact:  ["Buffalo buffalo Buffalo buffalo buffalo buffalo Buffalo buffalo" is a grammatically correct sentence in English](https://en.wikipedia.org/wiki/Buffalo_buffalo_Buffalo_buffalo_buffalo_buffalo_Buffalo_buffalo)
 
+### Currently working on:
+- [Command-line interactive Text Editor](github.com/ikozyris/txt-editor)
+- Creating/Porting apps to Ubuntu Touch
+- Learning Qt
+
 ### Known Programming Languages
 
 
@@ -23,5 +28,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-[C-logo](https://github.com/ikozyris/ikozyris/raw/main/C-logo.png)
 -->
