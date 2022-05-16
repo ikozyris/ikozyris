@@ -3,7 +3,9 @@
 
 ### Currently working on:
 - [Command-line interactive Text Editor](github.com/ikozyris/txt-editor)
-- Creating/Porting apps to Ubuntu Touch
+<!--- Creating/Porting apps to Ubuntu Touch
+    - Using a Lidar with ev3dev over USB
+-->
 - Learning Qt
 
 ### Known Programming Languages
