@@ -2,7 +2,7 @@
 - ⚡ Fun fact:  ["Buffalo buffalo Buffalo buffalo buffalo buffalo Buffalo buffalo" is a grammatically correct sentence in English](https://en.wikipedia.org/wiki/Buffalo_buffalo_Buffalo_buffalo_buffalo_buffalo_Buffalo_buffalo)
 
 ### Currently working on:
-- [Command-line interactive Text Editor](github.com/ikozyris/txt-editor)
+- [Command-line interactive Text Editor](https://github.com/ikozyris/txt-editor)
 <!--- Creating/Porting apps to Ubuntu Touch
     - Using a Lidar with ev3dev over USB
 -->
