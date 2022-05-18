@@ -16,7 +16,7 @@
 Bash Script
 
 ----
-Github Gist: https://gist.github.com/ikozyris/
+My gists: https://gist.github.com/ikozyris/
 <!--
 **ikozyris/ikozyris** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
