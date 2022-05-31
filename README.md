@@ -6,13 +6,13 @@
 <!--- Creating/Porting apps to Ubuntu Touch
     - Using a Lidar with ev3dev over USB
 -->
-- Learning Qt
+- Learning QML
 
 ### Known Programming Languages
 
 
 
-<img src="C-logo.png" alt="c-logo" width="100"/><img src="https://user-images.githubusercontent.com/80053394/159924995-ae240b6b-6ae2-45fe-87d5-ac0c7dac2073.png" alt="c-logo" width="80"/>
+<img src="C-logo.png" alt="c-logo" width="100"/>&nbsp;<img src="Python-logo.png" alt="python-logo" width="80"/>&nbsp;<img src="Qt-logo.png" alt="qt-logo" width="80"/>&nbsp;
 Bash Script
 
 ----
