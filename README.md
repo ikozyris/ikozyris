@@ -3,16 +3,16 @@
 
 ### Currently working on:
 - [Command-line interactive Text Editor](https://github.com/ikozyris/txt-editor)
-<!--- Creating/Porting apps to Ubuntu Touch
-    - Using a Lidar with ev3dev over USB
--->
-- Learning QML
+<!--- ~~Creating/Porting apps to Ubuntu Touch~~ -->
+- ~~Learning QML~~
+
+- [EV3 robot with rplidar and ev3dev](https://github.com/ikozyris/rplidar-ev3)
 
 ### Known Programming Languages
 
 
 
-<img src="C-logo.png" alt="c-logo" width="100"/>&nbsp;<img src="Python-logo.png" alt="python-logo" width="80"/>&nbsp;<img src="Qt-logo.png" alt="qt-logo" width="80"/>&nbsp;
+<img src="C-logo.png" alt="c-logo" width="100"/>&nbsp;<img src="Python-logo.png" alt="python-logo" width="80"/>&nbsp;    <img src="Qt-logo.png" alt="qt-logo" width="80"/>&nbsp;
 Bash Script
 
 ----
