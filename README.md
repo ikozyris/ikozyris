@@ -5,14 +5,9 @@
 - [Yocto Text Editor](https://github.com/ikozyris/yocto)
   a fast multithreaded text editor writen in C++ using ncurses and a gap buffer.
   
-- [EV3 robot with rplidar and ev3dev](https://github.com/ikozyris/rplidar-ev3)
-
-### Known Programming Languages
-
-
-
-<img src="C-logo.png" alt="c-logo" width="100"/>&nbsp;    <img src="Qt-logo.png" alt="qt-logo" width="80"/>&nbsp;
-Bash Script
+- [EV3 remote controlled robot](https://github.com/ikozyris/rplidar-ev3) 
+  using a lidar, live video feed using usbip for connection and ev3dev for linux port
 
 ----
 My gists: https://gist.github.com/ikozyris/
+My gitlab: https://gitlab.com/ikozyris
