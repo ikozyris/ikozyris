@@ -1,7 +1,6 @@
 ### Live long and prosper 🖖
-- ⚡ Fun fact:  ["Buffalo buffalo Buffalo buffalo buffalo buffalo Buffalo buffalo" is a grammatically correct sentence in English](https://en.wikipedia.org/wiki/Buffalo_buffalo_Buffalo_buffalo_buffalo_buffalo_Buffalo_buffalo)
 
-### Currently working on:
+#### Currently working on:
 - [Kri Text Editor](https://github.com/ikozyris/yocto) <br>
   The fastest text editor ([benchmarked](https://github.com/ikozyris/kri/wiki/Performance-&-Benchmarks)). Written in C++ using the ncurses library and a custom gap buffer.
 
